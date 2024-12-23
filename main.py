@@ -1,3 +1,4 @@
+# Это файл main.py
 import asyncio
 import logging
 import sys
